@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I'm Paulo
 
+I'm a Software Engineer from Manila, Philippines.
+
+#### 🔭 I’m currently working on ...
+
+Many things, such as... erm... prototyping... slop POCs... trying to make stuff work... oh, and shipping Soon™.
 <!--
 **pauvictorio/pauvictorio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
