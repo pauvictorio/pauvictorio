@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Paulo
 
-I'm a Software Engineer from Manila, Philippines.
+Civil engineer by day, developer by night. From Manila, Philippines.
 
 #### 🔭 I’m currently working on ...
 
