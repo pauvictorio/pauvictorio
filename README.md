@@ -1,8 +1,13 @@
-### Hi there 👋 I'm Paulo
+## Hi there 👋 I'm Paulo
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pauvictorio&label=Profile+Views&color=3b82f6&style=for-the-badge" alt="pauvictorio" />  
+</p>
 
 Civil engineer by day, developer by night. From Manila, Philippines.
 
-#### 🔭 I’m currently working on ...
+
+### 🔭 I’m currently working on ...
 
 skillmaxing. prototyping. trying to make stuff work. Oh, and shipping Soon™.
 <!--
